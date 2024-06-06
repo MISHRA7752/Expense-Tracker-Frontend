@@ -104,7 +104,7 @@ function Form() {
 const FormStyled = styled.form`
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 0.5rem;
     input, textarea, select{
         font-family: inherit;
         font-size: inherit;

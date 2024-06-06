@@ -11,4 +11,5 @@ export const InnerLayout = styled.div`
     padding: 2rem 1.5rem;
     overflow: scroll;
     width: 100%;
+    height: 100%;
 `;

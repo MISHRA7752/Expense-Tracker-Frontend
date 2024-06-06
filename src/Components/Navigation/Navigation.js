@@ -47,7 +47,7 @@ const NavStyled = styled.nav`
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 2rem;
+    gap: 0.5rem;
     .user-con{
         height: 100px;
         display: flex;
