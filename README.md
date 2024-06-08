@@ -1,4 +1,4 @@
-# Expense-Tracker-Backend
+# Expense-Tracker-Frontend
 Backend code for Expense tracker 
 # Install dependencies
 -> Run `npm i` to install dependencies.
